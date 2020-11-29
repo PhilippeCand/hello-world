@@ -1,2 +1,3 @@
 # hello-world
-Hust hello-world really
+Just hello-world really
+Anoter day in paradise
